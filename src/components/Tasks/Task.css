@@ -1,0 +1,11 @@
+.desc{
+	text-align: left;
+}
+
+.img {
+	margin-top:2%;
+	float:right;
+	width:20%;
+	height:auto;
+	min-width:200px;
+}

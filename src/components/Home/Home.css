@@ -1,0 +1,18 @@
+#headline {
+	font-size:500%;
+	/*float:left;*/
+	margin-left:5%;
+}
+.options{
+	font-size:300%;
+	float:left;
+	margin-left:5%;
+}
+
+#home{
+	height:100%;
+}
+.imgH {
+	width:40%;
+	min-width:200px;
+}
